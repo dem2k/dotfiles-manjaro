@@ -1,0 +1,4 @@
+alias ll='ls -lhF --color'
+alias la='ls -lahF --color'
+alias more='/usr/bin/bat'
+
