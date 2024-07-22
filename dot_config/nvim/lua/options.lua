@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------------
-vim.cmd("language en_US")  -- vim.opt.language = "en_US"              -- Set the language option
+-- vim.cmd("language en_US")  -- vim.opt.language = "en_US"              -- Set the language option
 vim.opt.compatible = false -- Disable compatibility mode. You want Vim, not vi. We set it explicitely to make our position clear!
 vim.cmd [[filetype plugin indent on]]   -- Load plugins according to detected filetype.
 
